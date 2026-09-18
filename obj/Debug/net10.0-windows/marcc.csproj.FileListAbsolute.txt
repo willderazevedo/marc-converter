@@ -1,0 +1,17 @@
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.Main.resources
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.csproj.GenerateResource.cache
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.AssemblyInfoInputs.cache
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.AssemblyInfo.cs
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.csproj.CoreCompileInputs.cache
+C:\Users\Willder\source\repos\marcc\bin\Debug\net10.0-windows\marcc.exe
+C:\Users\Willder\source\repos\marcc\bin\Debug\net10.0-windows\marcc.deps.json
+C:\Users\Willder\source\repos\marcc\bin\Debug\net10.0-windows\marcc.runtimeconfig.json
+C:\Users\Willder\source\repos\marcc\bin\Debug\net10.0-windows\marcc.dll
+C:\Users\Willder\source\repos\marcc\bin\Debug\net10.0-windows\marcc.pdb
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.dll
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\refint\marcc.dll
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.pdb
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.genruntimeconfig.cache
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\ref\marcc.dll
+C:\Users\Willder\source\repos\marcc\obj\Debug\net10.0-windows\marcc.csproj.Up2Date
